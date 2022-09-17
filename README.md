@@ -1,2 +1,5 @@
-# uni-os
-Repo for uni OS classes
+![](/cover.png)
+
+# Operating Systems
+
+Repo for university's OS classes
